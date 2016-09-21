@@ -49,8 +49,5 @@ Temporary Items
 #Binary Files
 bin
 obj
-
-#Vs Files
-.suo
-.user
-.csproj.user
+Debug
+Release
